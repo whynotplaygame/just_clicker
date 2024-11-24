@@ -4,10 +4,10 @@
 点击radiobutton就可以切换不同模式。开启点击 shift+K  停止 shift+L
 
 # 截图：
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/whynotplaygame/just_clicker/blob/main/temp/flow.png)
+![Image text](https://github.com/whynotplaygame/just_clicker/blob/main/temp/fixed.png)
+![Image text](https://github.com/whynotplaygame/just_clicker/blob/main/temp/recordreplay.png)
+![Image text](https://github.com/whynotplaygame/just_clicker/blob/main/temp/findimg.png)
 
 # 开发环境
 win11
