@@ -1,0 +1,7 @@
+pyinstaller  -F -p D:\youlePeriod\个人数据资源\suibian\.venv -p . --hidden-import='ui_click' --hidden-import='ui_imagelist' --hidden-import='click_model_threads' --hidden-import='click_other_widgets' -n whymouse -w my_click_click.py ui_click.py ui_imagelist.py click_other_widgets.py click_model_threads.py
+
+
+必须只有用以上方式，才能解决运行缺模块
+注意，
+1, -p 要用你的环境 和 当前目录.
+2, --hidden-import=   加的模块 与 项目内脚本一致。
